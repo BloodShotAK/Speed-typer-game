@@ -13,7 +13,8 @@ Score as much as you can and beat others.
 - Add certain amount of time after word is typed based on difficulty
 - Store difficulty setting in local storage
 
-##Game UI
+## Game UI
 [![Screenshot-15.png](https://i.postimg.cc/FKHfjPMB/Screenshot-15.png)](https://postimg.cc/jDBdThdH)
 
-=>Demo link https://speed-typer-game.herokuapp.com/
+### Demo link
+https://speed-typer-game.herokuapp.com/
