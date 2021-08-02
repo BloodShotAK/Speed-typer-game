@@ -133,9 +133,9 @@ text.addEventListener('input', e => {
     if (difficulty === 'hard') {
       time += 2;
     } else if (difficulty === 'medium') {
-      time += 3;
+      time += 4;
     } else {
-      time += 5;
+      time += 6;
     }
 
     updateTime();
