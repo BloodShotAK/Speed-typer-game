@@ -17,4 +17,4 @@ Score as much as you can and beat others.
 [![Screenshot-15.png](https://i.postimg.cc/FKHfjPMB/Screenshot-15.png)](https://postimg.cc/jDBdThdH)
 
 ### Demo link
-https://speed-typer-game.herokuapp.com/
+https://bloodshotak.github.io/Speed-typer-game/
